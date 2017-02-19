@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name" translatable="false">Jnanagni</string>
+    <string name="title_activity_start">StartActivity</string>
+    <string name="events">Events</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <!--event attributes-->
+    <string name="event_decs">Description</string>
+    <string name="event_task">Task</string>
+    <string name="event_prerequisite">Prerequisites / Specifications ( if any )</string>
+    <string name="event_judgemental_criteria">Judgemental Criteria</string>
+    <string name="event_rules">Rules and Regulations</string>
+    <string name="event_time_and_venue">Time and Venue</string>
+    <string name="event_coordinator">Coordinator(s)</string>
+
+    <string name="contact_info">Insert Contact Information</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="google_android_map_api_key">AIzaSyB5GoLgxGqpkfXJebPTNLWGpoXx2tKIsJo</string>
+    <string name="home_content_head">
+        We invite you to Jnanagni
+    </string>
+    <string name="home_content">
+        Our annual Techno-Cultural Fest
+        We gurantee you with a three day pacakage of Masti,Maza &amp; Thrive Knowledge.
+        You can enjoy yourself by taking part in our Technical/Cultural or Contemperory Events.
+        In the holy land of Haridwar.
+    </string>
+</resources>

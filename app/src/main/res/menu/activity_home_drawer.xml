@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_login"
+            android:icon="@android:drawable/ic_lock_idle_lock"
+            android:title="Pre-Register" />
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_events"
+            android:icon="@drawable/party"
+            android:title="Events" />
+        <item
+            android:id="@+id/nav_location"
+            android:icon="@drawable/location"
+            android:title="Location" />
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_share"
+                    android:icon="@drawable/ic_menu_share"
+                    android:title="Spread the word" />
+                <item
+                    android:id="@+id/nav_send"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="Feedback" />
+                <item
+                    android:id="@+id/nav_contact"
+                    android:icon="@android:drawable/sym_action_chat"
+                    android:title="Contact Us" />
+            </group>
+        </menu>
+    </item>
+
+</menu>
